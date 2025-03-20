@@ -114,15 +114,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the **MIT License**.
 
----
-
-### Screenshots (Optional)
-Include screenshots of your app in a `screenshots/` directory and reference them here.
-
-```markdown
-![Home Page](screenshots/home.png)
-![Movie Details](screenshots/movie-details.png)
-```
-
-Feel free to customize this README file further as needed! 🚀
+----
 
